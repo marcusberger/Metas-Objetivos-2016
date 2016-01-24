@@ -1,62 +1,11 @@
 # Metas-Objetivos2016
 
 <ol>
-	<li><i>Estudos</i></li>
 
-<ul TYPE="disc">
-	<br>
-	<li>Terminar os cursos de verão do IME-USP;</li>
-	<li>Estudar 2 horas por dia;</li>
-	<li>Fazer ao menos uma publicação por mês no Linkedin;</li>
-	<li>Estudar JAVA até a morte;</li>
-	<li>Terminar de desenvolver meus dois apps mobile(Android);</li>
-	<li>Seguir uma rotina de estudos de Inglês;</li>
-</ul>
-
-<br>
-	<li><i>Atividades Fisicas</i></li>
-	
-<ul TYPE="disc">
-	<br>
-	<li>Entrar na academia;</li>
-	<li>Completar todos os desafios que eu começar;</li>
-	<li>Fazer só trilhas de nível Hard, se não toda semana tem trilha;</li>
-	<li>Dormir 6 horas por dia;</li>
-	<li>Não pular nenhuma das 7 refeições diárias;</li>
-	<li>Diminuir o bf e aumentar a massa magra;</li>
-</ul>
-
-<br>
-	<li><i>Profissionais</i></li>
-	
-<ul TYPE="disc">
-	<br>
-	<li>Arrumar um estágio na área de desenvolvimento de software;</li>
-	<li>Ser o melhor estagiario da empresa;</li>
-	<li>Evoluir o máximo que posso, no menor tempo possível;</li>
-</ul>
-
-<br>
-	<li><i>Livros</i></li>
-	
-<ul TYPE="disc">
-	<br>
-	<li>Inteligência emocional;</li>
-	<li>Desbravando Java e Orientação a Objetos Um guia para o iniciante da linguagem;</li>
-	<li>JAVA SE programmer - O guia para sua certificação JAVA;</li>
-	<li>MySQL Comece com o principal banco de dados open source do mercado;</li>
-	<li>Scrum 360 Um guia completo e prático de agilidade;</li>
-
-</ul>
-
-<br>
-	<li><i>Outros</i></li>
-	
-<ul TYPE="disc">
-	<br>
-	<li>Praticar a disciplina TODOS os dias, horas, minutos e segundos;</li>
-	<li>Conhecer mais pessoas que conheci esse ano(que não foi poucas hehe);</li>
-	<li>Evoluir a mente;</li>
-</ul>
-	
+	<ul TYPE="disc">
+		<li>Estudar 2 horas por dia;</li>
+		<li>Cuidar do corpo;</li>
+		<li>Arrumar um estágio na área de desenvolvimento de software;</li>
+		<li>Ler um livro por mês;</li>
+	</ul>
 </ol>
